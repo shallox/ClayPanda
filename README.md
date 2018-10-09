@@ -6,8 +6,8 @@ Things you will need to have set up.
   Python 3.4 or higher.
   
   Python Packages:
-    Textblob
-    Bittrex api
+    Textblob,
+    Bittrex api,
     Praw
 
 To run for the 1st time, set up a database for both Reddit and Bittrex data.
